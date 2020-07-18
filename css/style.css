@@ -21,6 +21,7 @@ body{
     grid-template-columns: repeat(2, 1fr);
     grid-gap :7rem;
     padding: 0 2rem;
+    color: #1dad8c;
 }
 .img{
 	display: flex;
